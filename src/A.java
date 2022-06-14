@@ -4,8 +4,9 @@ public class A {
         double a=10;
         double b=15;
         double c=10;
-        System.out.println(a*b);
+        System.out.println(a+b);
         System.out.println(a/b);
         System.out.println(a/b*c);
+        System.out.println(a==b);
     }
 }
