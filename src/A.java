@@ -6,5 +6,6 @@ public class A {
         double c=10;
         System.out.println(a*b);
         System.out.println(a/b);
+        System.out.println(a/b*c);
     }
 }
